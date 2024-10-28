@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1707678048 source:c:\users\utente\desktop\lnbti '\semester 01\programming fundamentals\c++\clinicmanagement\mainpage.cpp
+	<iostream>
+	"authenticationfunc.h"
+	"patientfunctionheader.h"
+	"doctorfunctionheader.h"
+	"colorheader.h"
+	<stdio.h>
+	<cstdlib>
+
+1707411997 c:\users\utente\desktop\lnbti '\semester 01\programming fundamentals\c++\clinicmanagement\authenticationfunc.h
+	<cctype>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<thread>
+	<vector>
+
+1707678164 source:c:\users\utente\desktop\lnbti '\semester 01\programming fundamentals\c++\clinicmanagement\authenticationfunc.cpp
+	<iostream>
+	<cctype>
+	<fstream>
+	<iomanip>
+	<string>
+	<conio.h>
+	<thread>
+	<vector>
+	<windows.h>
+	<stdio.h>
+	<regex>
+	"patientfunctionheader.h"
+	"colorheader.h"
+
+1707678671 source:c:\users\utente\desktop\lnbti '\semester 01\programming fundamentals\c++\clinicmanagement\patientfunction.cpp
+	<iostream>
+	<cctype>
+	<fstream>
+	<string.h>
+	<sstream>
+	<conio.h>
+	<thread>
+	<vector>
+	<limits>
+	"authenticationfunc.h"
+	"colorheader.h"
+	<windows.h>
+
+1707227606 c:\users\utente\desktop\lnbti '\semester 01\programming fundamentals\c++\clinicmanagement\patientfunctionheader.h
+	<string.h>
+	<fstream>
+	<conio.h>
+	<thread>
+
+1707071920 c:\users\utente\desktop\lnbti '\semester 01\programming fundamentals\c++\clinicmanagement\doctorfunctionheader.h
+	<string.h>
+	<fstream>
+	<conio.h>
+	<thread>
+
+1707677678 source:c:\users\utente\desktop\lnbti '\semester 01\programming fundamentals\c++\clinicmanagement\doctorfunction.cpp
+	<iostream>
+	<cctype>
+	<fstream>
+	<string.h>
+	<sstream>
+	<conio.h>
+	<thread>
+	<vector>
+	"colorheader.h"
+	"authenticationfunc.h"
+	"patientfunctionheader.h"
+
+1707660101 c:\users\utente\desktop\lnbti '\semester 01\programming fundamentals\c++\clinicmanagement\colorheader.h
+	<iostream>
+
